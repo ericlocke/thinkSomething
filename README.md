@@ -1,0 +1,2 @@
+# thinkSomething
+my thinks
